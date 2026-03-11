@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Engineering graduate in Mumbai, passionate about Data Analytics and Business Intelligence<br>I'm currently looking for full time opportunities as a Data or Reporting Analyst/ Power BI Developer.
+I'm a Computer Engineering graduate in Mumbai, passionate about Data Analytics and Business Intelligence, currently looking for full time opportunities as a Data or Reporting Analyst/ Power BI Developer.
 
 
 ## 🌐 Socials:
